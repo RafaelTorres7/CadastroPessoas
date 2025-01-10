@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DDEF02-DAF0-4847-AC5B-0B8FBC7D328F}|CadastroPessoas.csproj|c:\\users\\soraa\\downloads\\project\\cadastropessoas\\views\\pessoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01DDEF02-DAF0-4847-AC5B-0B8FBC7D328F}|CadastroPessoas.csproj|solutionrelative:views\\pessoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DDEF02-DAF0-4847-AC5B-0B8FBC7D328F}|CadastroPessoas.csproj|c:\\users\\soraa\\downloads\\project\\cadastropessoas\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DDEF02-DAF0-4847-AC5B-0B8FBC7D328F}|CadastroPessoas.csproj|solutionrelative:controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\Views\\Pessoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pessoas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\Views\\Pessoas\\Create.cshtml*",
+              "RelativeToolTip": "Views\\Pessoas\\Create.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T05:33:02.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecosController.cs",
+              "DocumentMoniker": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\Controllers\\EnderecosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnderecosController.cs",
+              "ToolTip": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\Controllers\\EnderecosController.cs",
+              "RelativeToolTip": "Controllers\\EnderecosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:24:22.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CadastroPessoas.Models.Pessoa>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem de Pessoas</title>
+</head>
+<body>
+    <h1>Listagem de Pessoas</h1>
+    <button onclick="window.location.href='/Pessoas/Create'">+ Cadastro</button>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Telefone</th>
+                <th>CPF</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pessoa in Model)
+            {
+                    <tr>
+                        <td>@pessoa.Nome</td>
+                        <td>@pessoa.Telefone</td>
+                        <td>@pessoa.Cpf</td>
+                        <td>
+                                <form method="post" action="@Url.Action("Delete", "Pessoas")" onsubmit="return confirm('Você tem certeza que deseja excluir?');">
+        <input type="hidden" name="id" value="@pessoa.Id" />
+        <button type="submit">Excluir</button>
+    </form>
+
+                            <button onclick="window.location.href='/Pessoas/Edit/@pessoa.Id'">Editar</button>
+                        </td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

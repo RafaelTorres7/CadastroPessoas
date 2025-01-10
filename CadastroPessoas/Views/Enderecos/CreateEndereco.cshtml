@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Endereço</title>
+</head>
+<body>
+    <h1>Cadastrar Endereço</h1>
+    <form method="post">
+        <input type="hidden" name="PessoaId" value="@ViewBag.PessoaId" />
+
+        <label for="EnderecoDescricao">Endereço:</label>
+        <input type="text" id="EnderecoDescricao" name="EnderecoDescricao" required><br><br>
+
+        <label for="Cep">CEP:</label>
+        <input type="text" id="Cep" name="Cep" required><br><br>
+
+        <label for="Cidade">Cidade:</label>
+        <input type="text" id="Cidade" name="Cidade" required><br><br>
+
+        <label for="Estado">Estado:</label>
+        <input type="text" id="Estado" name="Estado" required><br><br>
+
+        <button type="submit">Cadastrar</button>
+    </form>
+    <a href="/Enderecos">Voltar</a>
+</body>
+</html>
