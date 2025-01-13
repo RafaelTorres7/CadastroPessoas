@@ -1,17 +1,14 @@
-﻿@model IEnumerable<CadastroPessoas.Models.Pessoa>
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listagem de Pessoas</title>
+    <title>Cadastro de Pessoas</title>
 </head>
 <body>
-    <h1>Listagem de Pessoas</h1>
-    <button onclick="window.location.href='/Pessoas/Create'">+ Cadastro</button>
-
-    <table border="1">
+    <h1>Cadastro de Pessoas</h1>
+    <a href="/Pessoas/Create" class="btn btn-primary" style="float: right;">+ Cadastro</a>
+    <table class="table">
         <thead>
             <tr>
                 <th>Nome</th>
@@ -24,16 +21,13 @@
             @foreach (var pessoa in Model)
             {
                     <tr>
-                        <td>@pessoa.Nome</td>
+                        <td><a href="/Pessoas/Edit/@pessoa.Id">@pessoa.Nome</a></td>
                         <td>@pessoa.Telefone</td>
                         <td>@pessoa.Cpf</td>
                         <td>
-                                <form method="post" action="@Url.Action("Delete", "Pessoas")" onsubmit="return confirm('Você tem certeza que deseja excluir?');">
-        <input type="hidden" name="id" value="@pessoa.Id" />
-        <button type="submit">Excluir</button>
-    </form>
-
-                            <button onclick="window.location.href='/Pessoas/Edit/@pessoa.Id'">Editar</button>
+                            <form method="post" action="/Pessoas/Delete/@pessoa.Id" onsubmit="return confirm('Deseja excluir esta pessoa?');">
+                                <button type="submit" class="btn btn-danger">X</button>
+                            </form>
                         </td>
                     </tr>
             }

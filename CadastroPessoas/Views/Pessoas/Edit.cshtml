@@ -1,0 +1,141 @@
+﻿@model CadastroPessoas.Models.Pessoa
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Cadastro</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Editar Cadastro - @Model.Nome</h2>
+
+        <!-- Formulário de edição da pessoa -->
+        <form method="post">
+            <div class="form-group">
+                <label for="Nome">Nome:</label>
+                <input type="text" id="Nome" name="Nome" class="form-control" value="@Model.Nome" required><br>
+            </div>
+            <div class="form-group">
+                <label for="Telefone">Telefone:</label>
+                <input type="text" id="Telefone" name="Telefone" class="form-control" value="@Model.Telefone" required><br>
+            </div>
+            <div class="form-group">
+                <label for="Cpf">CPF:</label>
+                <input type="text" id="Cpf" name="Cpf" class="form-control" value="@Model.Cpf" required><br>
+            </div>
+            <button type="submit" class="btn btn-primary">Salvar Alterações</button>
+        </form>
+
+        <!-- Lista de endereços cadastrados -->
+        <h3 class="mt-4">Endereços Cadastrados</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Endereço</th>
+                    <th>CEP</th>
+                    <th>Cidade</th>
+                    <th>Estado</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var endereco in Model.Enderecos)
+                {
+                        <tr>
+                            <td>@endereco.EnderecoDescricao</td>
+                            <td>@endereco.Cep</td>
+                            <td>@endereco.Cidade</td>
+                            <td>@endereco.Estado</td>
+                            <td>
+                                <a href="/Enderecos/Edit/@endereco.Id" class="btn btn-warning">Editar</a>
+                                <form method="post" action="/Enderecos/Delete/@endereco.Id" style="display:inline;">
+                                    <button type="submit" class="btn btn-danger">Excluir</button>
+                                </form>
+                            </td>
+                        </tr>
+                }
+            </tbody>
+        </table>
+
+        <!-- Botão para abrir o modal de cadastro de endereço -->
+        <a href="#" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEnderecoModal">+ Endereço</a>
+        <a href="/Pessoas" class="btn btn-secondary">Voltar</a>
+    </div>
+
+    <!-- Modal para cadastro de endereço -->
+    <div class="modal fade" id="addEnderecoModal" tabindex="-1" aria-labelledby="addEnderecoModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addEnderecoModalLabel">Cadastrar Endereço</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form method="post" action="/Pessoas/AddEndereco">
+                        <input type="hidden" name="pessoaId" value="@Model.Id" />
+
+                        <div class="form-group">
+                            <label for="Cep">CEP:</label>
+                            <input type="text" id="Cep" name="cep" class="form-control" required onblur="buscarEndereco()">
+                        </div>
+
+                        <div class="form-group mt-2">
+                            <label for="EnderecoDescricao">Endereço:</label>
+                            <input type="text" id="EnderecoDescricao" name="enderecoDescricao" class="form-control" required>
+                        </div>
+
+                        <div class="form-group mt-2">
+                            <label for="Cidade">Cidade:</label>
+                            <input type="text" id="Cidade" name="cidade" class="form-control" required>
+                        </div>
+
+                        <div class="form-group mt-2">
+                            <label for="Estado">Estado:</label>
+                            <input type="text" id="Estado" name="estado" class="form-control" required>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                            <button type="submit" class="btn btn-primary">Salvar Endereço</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script para buscar endereço via CEP -->
+    <script>
+        function buscarEndereco() {
+            const cep = document.getElementById("Cep").value.replace("-", "").trim();
+
+            if (cep.length === 8) {
+                const url = `https://viacep.com.br/ws/${cep}/json/`;
+
+                fetch(url)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.erro) {
+                            alert("CEP não encontrado!");
+                        } else {
+                            document.getElementById("EnderecoDescricao").value = data.logradouro;
+                            document.getElementById("Cidade").value = data.localidade;
+                            document.getElementById("Estado").value = data.uf;
+                        }
+                    })
+                    .catch(error => {
+                        alert("Erro ao buscar o CEP");
+                    });
+            } else {
+                alert("CEP inválido.");
+            }
+        }
+    </script>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

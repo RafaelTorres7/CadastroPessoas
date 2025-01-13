@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i58PiM/g/hr+J+NDDogKcmPaXhL+Cue+t2gZIZ6xHgs=",
+  "Hash": "/XMJSNSX4syd9wFNBgKqJSeyQRZD4Ch7eoOYvY09/0k=",
   "Source": "CadastroPessoas",
   "BasePath": "_content/CadastroPessoas",
   "Mode": "Default",
@@ -479,27 +479,6 @@
       "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\d60bbehos8-wqsn7csvsa.gz",
-      "SourceId": "CadastroPessoas",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/CadastroPessoas",
-      "RelativePath": "CadastroPessoas#[.{fingerprint=wqsn7csvsa}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "x19nmk8qg9",
-      "Integrity": "lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css"
-    },
-    {
       "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\eg8xnv2d9x-dxx9fxp4il.gz",
       "SourceId": "CadastroPessoas",
       "SourceType": "Discovered",
@@ -771,27 +750,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\nur7l2yvay-wqsn7csvsa.gz",
-      "SourceId": "CadastroPessoas",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/CadastroPessoas",
-      "RelativePath": "CadastroPessoas#[.{fingerprint=wqsn7csvsa}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "x19nmk8qg9",
-      "Integrity": "lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\o0lq9lncsn-vr1egmr9el.gz",
@@ -1088,12 +1046,12 @@
       "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-ooo3zv2orw.gz",
       "SourceId": "CadastroPessoas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CadastroPessoas",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ooo3zv2orw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1102,8 +1060,8 @@
       "RelatedAsset": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "pdjo8u27mg",
+      "Integrity": "42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css"
@@ -1361,48 +1319,6 @@
       "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css",
-      "SourceId": "CadastroPessoas",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/CadastroPessoas",
-      "RelativePath": "CadastroPessoas#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "wqsn7csvsa",
-      "Integrity": "uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
-      "SourceId": "CadastroPessoas",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/CadastroPessoas",
-      "RelativePath": "CadastroPessoas#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "wqsn7csvsa",
-      "Integrity": "uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css"
-    },
-    {
       "Identity": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
       "SourceId": "CadastroPessoas",
       "SourceType": "Discovered",
@@ -1417,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "ooo3zv2orw",
+      "Integrity": "SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2644,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "CadastroPessoas.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\nur7l2yvay-wqsn7csvsa.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-ooo3zv2orw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001834862385"
+          "Quality": "0.001522070015"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2660,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "544"
+          "Value": "656"
         },
         {
           "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
+          "Value": "\"42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,622 +2688,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
+          "Value": "W/\"SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
+          "Value": "sha256-SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0="
         }
       ]
     },
     {
-      "Route": "CadastroPessoas.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\nur7l2yvay-wqsn7csvsa.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.styles.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\d60bbehos8-wqsn7csvsa.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.styles.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.styles.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\d60bbehos8-wqsn7csvsa.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\nur7l2yvay-wqsn7csvsa.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\nur7l2yvay-wqsn7csvsa.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.styles.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\d60bbehos8-wqsn7csvsa.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001834862385"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.styles.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CadastroPessoas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uHfoxgG9toOeJsw+LK971ECBDexxnjKjoN+Ec6QbXw8="
-        }
-      ]
-    },
-    {
-      "Route": "CadastroPessoas.wqsn7csvsa.styles.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\d60bbehos8-wqsn7csvsa.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:17:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqsn7csvsa"
-        },
-        {
-          "Name": "label",
-          "Value": "CadastroPessoas.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lTNYo4FAkBVG5leMV2G+nX56jMJXwiPFR0XJM9nKm9o="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +2709,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "2142"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +2717,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-ooo3zv2orw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ooo3zv2orw.css",
+      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-ooo3zv2orw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001522070015"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ooo3zv2orw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ooo3zv2orw.css",
+      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "ooo3zv2orw"
         },
         {
           "Name": "label",
@@ -3427,13 +2884,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-SGEzEc1cGfzb5vshEpu0EYobQq+VhX2UbqYo9ACcYR0="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-b9sayid5wm.gz",
+      "Route": "css/site.ooo3zv2orw.css.gz",
+      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-ooo3zv2orw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +2899,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "656"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +2907,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
+          "Value": "Mon, 13 Jan 2025 05:15:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +2929,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "ooo3zv2orw"
         },
         {
           "Name": "label",
@@ -3480,144 +2937,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003125000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\compressed\\vz209mfdos-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "319"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 08 Jan 2025 22:08:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-42cK5riZ/Eb3AXqt0BxUlr+79MfitcWRhZx3kHzUpAs="
         }
       ]
     },

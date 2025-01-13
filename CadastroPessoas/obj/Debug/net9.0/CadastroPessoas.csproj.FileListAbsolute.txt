@@ -14,10 +14,7 @@ C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\CadastroPessoa
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\CadastroPessoas.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\CadastroPessoas.RazorAssemblyInfo.cache
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\CadastroPessoas.RazorAssemblyInfo.cs
-C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\scopedcss\bundle\CadastroPessoas.styles.css
-C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\scopedcss\projectbundle\CadastroPessoas.bundle.scp.css
-C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\vz209mfdos-b9sayid5wm.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\lmdktmksfj-61n19gt1b8.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\5ztqy76wac-xtxxf3hu2r.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\58ykpzaa9s-bqjiyaj88i.gz
@@ -79,8 +76,6 @@ C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\z28
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\zifmxhjeyi-muycvpuwrr.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\8rung4fbao-87fc7y1x7t.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\jduxqem18t-mlv21k5csn.gz
-C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\d60bbehos8-wqsn7csvsa.gz
-C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\nur7l2yvay-wqsn7csvsa.gz
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -146,3 +141,4 @@ C:\Users\Soraa\Downloads\Project\CadastroPessoas\bin\Debug\net9.0\Microsoft.Enti
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\CadastroPessoas.sourcelink.json
+C:\Users\Soraa\Downloads\Project\CadastroPessoas\obj\Debug\net9.0\compressed\vz209mfdos-ooo3zv2orw.gz

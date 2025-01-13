@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CadastroPessoas.Models.Endereco>
+
+<h2>Endereços</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Descrição</th>
+            <th>CEP</th>
+            <th>Cidade</th>
+            <th>Estado</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var endereco in Model)
+        {
+                <tr>
+                    <td>@endereco.EnderecoDescricao</td>
+                    <td>@endereco.Cep</td>
+                    <td>@endereco.Cidade</td>
+                    <td>@endereco.Estado</td>
+                    <td>
+                        
+                                <form method="post" action="@Url.Action("DeleteEndereco", "Enderecos", new { id = endereco.Id })" style="display:inline;" onsubmit="return confirm('Tem certeza que deseja excluir este endereço?');">
+                        @Html.AntiForgeryToken()
+        <input type="hidden" name="id" value="@endereco.Id" />
+        <button type="submit" class="btn btn-danger">Excluir</button>
+    </form>
+
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+
+<a href="#" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#addEnderecoModal">+ Endereço</a>
+<a href="/Pessoas" class="btn btn-secondary">Voltar</a>

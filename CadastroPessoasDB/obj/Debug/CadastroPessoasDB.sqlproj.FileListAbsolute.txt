@@ -1,0 +1,10 @@
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\bin\Debug\CadastroPessoasDB.dacpac
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\bin\Debug\CadastroPessoasDB.dll
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\bin\Debug\CadastroPessoasDB.pdb
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\CadastroPessoasDB.sqlproj.AssemblyReference.cache
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\Model.xml
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\refactor.xml
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\postdeploy.sql
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\predeploy.sql
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\CadastroPessoasDB.dll
+C:\Users\Soraa\Downloads\Project\CadastroPessoasDB\obj\Debug\CadastroPessoasDB.pdb

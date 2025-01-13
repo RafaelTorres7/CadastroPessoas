@@ -3,10 +3,14 @@ using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuração do Dapper
-builder.Services.AddSingleton<Database>();
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-// Habilitar controllers e views
+if (string.IsNullOrEmpty(connectionString))
+{
+    throw new InvalidOperationException("A string de conexão não foi fornecida no arquivo de configuração.");
+}
+
+builder.Services.AddSingleton(new Database(connectionString));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -23,5 +27,9 @@ app.UseStaticFiles();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Pessoas}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "enderecos",
+    pattern: "{controller=Enderecos}/{action=Index}/{pessoaId?}");
 
 app.Run();

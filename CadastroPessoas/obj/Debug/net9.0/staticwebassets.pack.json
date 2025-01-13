@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CadastroPessoas.wqsn7csvsa.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Soraa\\Downloads\\Project\\CadastroPessoas\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

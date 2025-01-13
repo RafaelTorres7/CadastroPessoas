@@ -1,11 +1,9 @@
-﻿CREATE TABLE [dbo].[Enderecos] (
-    [Id]                INT            NOT NULL,
-    [PessoaId]          INT            NOT NULL,
-    [EnderecoDescricao] NVARCHAR (200) NOT NULL,
-    [Cep]               NVARCHAR (10)  NOT NULL,
-    [Cidade]            NVARCHAR (100) NOT NULL,
-    [Estado]            NVARCHAR (50)  NOT NULL,
-    CONSTRAINT [PK_Enderecos] PRIMARY KEY CLUSTERED ([Id] ASC),
-    CONSTRAINT [FK_Enderecos_Pessoas] FOREIGN KEY ([PessoaId]) REFERENCES [dbo].[Pessoas] ([Id])
+﻿CREATE TABLE Enderecos (
+    Id INT IDENTITY PRIMARY KEY,
+    PessoaId INT NOT NULL,
+    EnderecoDescricao NVARCHAR(255) NOT NULL,
+    Cep NVARCHAR(15) NOT NULL,
+    Cidade NVARCHAR(100),
+    Estado NVARCHAR(50),
+    FOREIGN KEY (PessoaId) REFERENCES Pessoas(Id) ON DELETE NO ACTION
 );
-
